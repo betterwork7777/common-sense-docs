@@ -1,1 +1,3 @@
-# Common Sense Doc Services - GitHub Ready Version
+# Common Sense Doc Services
+
+Deployed version ready for Vercel.
